@@ -11,7 +11,7 @@ I kept applying to PM roles that were already closed. So I built a board that on
 - Real closing dates · Save & track jobs · 7-step Quick Tour
 - Free forever, no sign-up
 
-**Live right now:** 87 open roles (73 India · 14 International) · 124 tracked · 259 hiring platforms
+**Live right now:** 139 open roles (121 India · 18 International) · 165 tracked · 259 hiring platforms
 
 🔗 **https://pm-launchpad.vercel.app**
 
